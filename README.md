@@ -10,8 +10,8 @@
 - **Attestations** — deterministic, tamper-evident (optionally HMAC-signed) digests that prove a value/confidence/citation triple has not been altered.
 
 [![CI](https://github.com/Vibecoder012/attestable/actions/workflows/ci.yml/badge.svg)](https://github.com/Vibecoder012/attestable/actions/workflows/ci.yml)
-[![PyPI](https://img.shields.io/pypi/v/attestable.svg)](https://pypi.org/project/attestable/)
-[![Python](https://img.shields.io/pypi/pyversions/attestable.svg)](https://pypi.org/project/attestable/)
+[![PyPI](https://img.shields.io/pypi/v/attestable.py.svg)](https://pypi.org/project/attestable.py/)
+[![Python](https://img.shields.io/pypi/pyversions/attestable.py.svg)](https://pypi.org/project/attestable.py/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
 ---
@@ -31,8 +31,11 @@ It is deliberately small, dependency-free, offline-capable, and framework-agnost
 ## Install
 
 ```bash
-pip install attestable
+pip install attestable.py
 ```
+
+> The PyPI distribution is named `attestable.py` (the plain `attestable` name is an
+> unrelated, unmaintained package). The import name is unaffected: `import attestable`.
 
 Requires Python 3.10+. No third-party runtime dependencies.
 
