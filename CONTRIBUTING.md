@@ -17,7 +17,7 @@ welcome.
 ## Development setup
 
 ```bash
-git clone https://github.com/your-org/attestable
+git clone https://github.com/<your-username>/attestable
 cd attestable
 python -m venv .venv && . .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
