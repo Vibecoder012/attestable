@@ -40,10 +40,10 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/<your-username>/attestable"
-Repository = "https://github.com/<your-username>/attestable"
-Issues = "https://github.com/<your-username>/attestable/issues"
-Changelog = "https://github.com/<your-username>/attestable/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Vibecoder012/attestable"
+Repository = "https://github.com/Vibecoder012/attestable"
+Issues = "https://github.com/Vibecoder012/attestable/issues"
+Changelog = "https://github.com/Vibecoder012/attestable/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11"]

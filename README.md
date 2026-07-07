@@ -9,7 +9,7 @@
 - **Resolvers + dangling detection** — resolve anchors back to source text, and batch-check a corpus for citations that no longer point anywhere.
 - **Attestations** — deterministic, tamper-evident (optionally HMAC-signed) digests that prove a value/confidence/citation triple has not been altered.
 
-[![CI](https://github.com/<your-username>/attestable/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/attestable/actions/workflows/ci.yml)
+[![CI](https://github.com/Vibecoder012/attestable/actions/workflows/ci.yml/badge.svg)](https://github.com/Vibecoder012/attestable/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/attestable.svg)](https://pypi.org/project/attestable/)
 [![Python](https://img.shields.io/pypi/pyversions/attestable.svg)](https://pypi.org/project/attestable/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
