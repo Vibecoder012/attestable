@@ -1,0 +1,5 @@
+# Default owners for everything in the repo. Replace with your GitHub handle/team.
+* @your-org/maintainers
+
+# The anchor grammar is a frozen public contract — require extra review.
+/src/attestable/anchors.py @your-org/maintainers
